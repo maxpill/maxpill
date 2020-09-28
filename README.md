@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=maxpill)
 
-I am Max, Flutter & React-native developer
+I am Max, Flutter developer
 
 
 <!--
