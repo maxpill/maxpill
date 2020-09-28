@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=maxpill)
 
+I am Max, Flutter & React-native developer
+
 
 <!--
 **maxpill/maxpill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
