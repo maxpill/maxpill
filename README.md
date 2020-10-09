@@ -8,6 +8,5 @@ I am Max, Flutter developer
 
 - 🔭 I’m currently working on my private project.
 - 🌱 I’m currently learning React-native & Flutter.
-- 👯 I’m looking to collaborate on interesting Flutter projects.
 - 📫 How to reach me: maks.pilzys@gmail.com
 
