@@ -6,7 +6,7 @@
 
 I am Max, Flutter developer
 
-- 🔭 I’m currently working on my private project.
+- 🔭 I’m currently working on @tutorie.
 - 🌱 I’m currently learning React-native & Flutter.
 - 📫 How to reach me: maks.pilzys@gmail.com
 
