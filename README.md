@@ -6,7 +6,6 @@
 
 I am Max, Flutter developer
 
-- 🔭 I’m currently working on @tutorie.
-- 🌱 I’m currently learning React-native & Flutter.
+- 🔭 I’m currently working on https://github.com/tutorie.
 - 📫 How to reach me: maks.pilzys@gmail.com
 
