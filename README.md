@@ -4,6 +4,5 @@
 
 I am Max, Flutter and React Native developer
 
-- 🔭 I’m currently working on https://github.com/tutorie.
 - 📫 How to reach me: maks.pilzys@gmail.com
 
