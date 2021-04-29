@@ -6,7 +6,7 @@ I am Max, Flutter and React Native developer
 
 - 📫 How to reach me: mailto:maks.pilzys@gmail.com
 
-- Currently working on (Tutorie)[https://tutorie.net], mobile app connecting students with tutors.
+- Currently working on [Tutorie](https://tutorie.net), mobile app connecting students with tutors.
 
 [Tutorie on Google Play](https://play.google.com/store/apps/details?id=net.tutorie)
 
